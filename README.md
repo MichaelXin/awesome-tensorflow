@@ -63,6 +63,8 @@ More info [here](http://tensorflow.org).
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - Tensorflow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 * [DCGAN](https://github.com/carpedm20/DCGAN-tensorflow) - DCGAN in Tensorflow
+* [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+* [tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg)
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
